@@ -1,0 +1,27 @@
+{
+  "name": "capitalize-words-regex-function",
+  "version": "1.0.2",
+  "description": "a npm package that helps to capitalize each words of a string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikartp/capitalize-words.git"
+  },
+  "keywords": [
+    "capitalize",
+    "capitalize words",
+    "capitalize words in a string"
+  ],
+  "author": "Vikash Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikartp/capitalize-words/issues"
+  },
+  "homepage": "https://github.com/vikartp/capitalize-words#readme",
+  "dependencies": {
+    "capitalize-words-regex-function": "^1.0.0"
+  }
+}
