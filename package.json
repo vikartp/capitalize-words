@@ -1,6 +1,6 @@
 {
   "name": "capitalize-words-regex-function",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "description": "a npm package that helps to capitalize each words of a string",
   "main": "index.js",
   "scripts": {
